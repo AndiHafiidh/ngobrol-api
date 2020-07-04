@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  eyes: MyString
+  nose: MyString
+  mouth: MyString
+  color: MyString
+  firebase_id: MyString
+
+two:
+  name: MyString
+  eyes: MyString
+  nose: MyString
+  mouth: MyString
+  color: MyString
+  firebase_id: MyString
